@@ -1,0 +1,32 @@
+.container-1{
+    padding: 30px 60px;
+    max-width: 1240px;
+  margin: auto;
+  color: #07301b;
+}
+
+.heading-1{
+    background-color: white;
+    color: #118c4f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 15px 10px -15px #118c4f;
+    border-radius: 8px;
+    margin: 2rem 1rem;
+    padding: .7rem 1rem;
+    font-weight: 700;
+}
+
+.secondary{
+    color: black;
+}
+
+.primary-1{
+    color: var(--primary);
+    padding-left:20px ;
+}
+
+hr{
+    width: 275px;
+}
